@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MultiplataformasAndroid</string>
+    <string name="app_name">Mi primer Poyecto</string>
+    <string name="titulo_app">Bienvenido</string>
+    <string name="booton_app">Entrar</string>
 </resources>
